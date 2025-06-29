@@ -2,8 +2,6 @@
 from keep_alive import keep_alive
 import os
 import certifi
-os.environ['SSL_CERT_FILE'] = certifi.where()
-
 import discord
 import asyncio
 import json
