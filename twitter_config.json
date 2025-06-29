@@ -1,0 +1,9 @@
+{
+    "twitter_accounts": {
+        "elonmusk": 1382759519196680355,
+        "cnnbrk": 1382759519196680355,
+        "Reuters": 1382759519196680355,
+        "BBCBreaking": 1382759519196680355
+    },
+    "fetch_interval_minutes": 5
+}
